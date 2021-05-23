@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "echoid",
+      "name": "echoid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49063360?v=4",
+      "profile": "https://github.com/echoid",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "COMP90051-P2",
+  "projectOwner": "echoid",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
